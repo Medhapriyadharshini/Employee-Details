@@ -6,6 +6,6 @@ function login(){
     localStorage.getItem("PASSWORD",password)
 
 
-    window.location="./index.html"
+    window.location="./home.html"
 }
 
